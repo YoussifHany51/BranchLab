@@ -1,2 +1,2 @@
 Welcome hint file
-This is the second line
+This is the second linethis is the 3th line
